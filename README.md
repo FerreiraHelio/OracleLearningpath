@@ -3,3 +3,7 @@
 Lesson 1  - Lambda Expressions
 
 Lesson 2  - Operators intermediate and Terminals
+
+
+:trollface:
+
