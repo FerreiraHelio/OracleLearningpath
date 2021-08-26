@@ -6,7 +6,3 @@ Lesson 2  - Operators intermediate and Terminals
 
 
 :trollface:
-
-:trollface:
-:trollface:
-:trollface:
