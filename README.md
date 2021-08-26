@@ -7,6 +7,3 @@ Lesson 2  - Operators intermediate and Terminals
 
 :trollface:
 
-
-
-:smile:
